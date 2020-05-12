@@ -1,0 +1,7 @@
+domain: my.domain
+repo: github.com/pjferrell/controller-samples
+resources:
+- group: domain.local
+  kind: Test
+  version: v1alpha1
+version: "2"
